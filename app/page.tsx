@@ -15,9 +15,9 @@ export default function Home() {
       <Hero />
       <Features />
       <ProductsShowcase />
-      <Section />
-      <HowItWorks />
       <BusinessSection />
+      <HowItWorks />
+
    
       <CtaBanner />
       <Footer />

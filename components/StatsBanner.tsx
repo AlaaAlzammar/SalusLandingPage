@@ -10,7 +10,7 @@ export default function StatsBanner() {
 
      
 
-      <div className="flex flex-col justify-between px-6 py-14 md:flex-row md:items-center md:px-14">
+      <div className="flex flex-col justify-between px-6 py-6 md:flex-row md:items-center md:px-14">
         <div className="justify-items-center items-center">
           <p className="text-sm text-moss-500">
             أرقام تتحدث عن نفسها

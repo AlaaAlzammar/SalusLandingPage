@@ -77,7 +77,7 @@ const features = [
 export default function Features() {
   return (
     <section  className="bg-[#FAF9F3]">
-      <div className="mx-auto grid max-w-8xl grid-cols-2 gap-y-12 px-6 py-16 md:grid-cols-4 md:gap-10 md:px-10 md:py-20">
+      <div className="mx-auto grid max-w-8xl grid-cols-2 gap-y-12 px-6 py-6 md:grid-cols-4 md:gap-10 md:px-10 md:py-10">
         {features.map((f) => (
           <div key={f.title} className="flex flex-col items-center text-center">
             <div className="mb-5 grid h-14 w-14 place-items-center rounded-full bg-moss-100 text-moss-700">

@@ -32,7 +32,7 @@ const steps = [
     icon: Truck,
     title: "استلم طلبك",
     text: "تجهز طلبك بعناية ونوصله إلى باب منزلك في أسرع وقت.",
-    image: "/images/step-4.jpg",
+    image: "/images/step-4.jpeg",
     fit: "cover",
   },
 ] as const;

@@ -37,7 +37,7 @@ export default function ProductsShowcase() {
   return (
    <section id="ForUsers" className="relative overflow-hidden bg-cream">
       <div className="mx-auto max-w-7xl px-6 lg:px-10 py-20 grid lg:grid-cols-2 gap-16 items-center">
-        <div className="relative order-2 lg:order-1 flex justify-center">
+        <div className="relative order-1 lg:order-1 flex justify-center">
           <img
             src="/images/salus_phone2.png"
             alt="تطبيق SALUS على الهاتف بين يدي مستخدم"
@@ -46,7 +46,7 @@ export default function ProductsShowcase() {
           />
         </div>
 
-        <div className="order-1 lg:order-2 text-right">
+        <div className="order-2 lg:order-2 text-right">
           <h2 className="font-display text-4xl lg:text-5xl font-semibold text-ink mb-4 leading-snug">
             كل ما تحتاجه في مكان واحد
           </h2>
